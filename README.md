@@ -2,7 +2,7 @@
 
 ### ¡Hola!, Soy Sebastián.
 
-Soy de Chile, Desarrollador Web Full-Stack y Técnico en Enfermería, Me encanta la tecnología y eso me llevo a terminar con éxito, mi Bootcam en Soy Henry, me considero una persona autodidacta porque me gusta el poder estar mejorando y desarrollando nuevas habilidades las cuales me permitan desenvolver mis aptitudes de mejor forma en los proyectos que tengo que desarrollar.
+Soy de Chile 🇨🇱, Desarrollador Web Full-Stack y Técnico en Enfermería, Me encanta la tecnología y eso me llevo a terminar con éxito, mi Bootcam en Soy Henry, me considero una persona autodidacta porque me gusta el poder estar mejorando y desarrollando nuevas habilidades las cuales me permitan desenvolver mis aptitudes de mejor forma en los proyectos que tengo que desarrollar.
 
 ### Contacto.
 
