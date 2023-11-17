@@ -10,7 +10,7 @@ Si deseas contactarme puedes enviar un correo, escribir a mi WhatsApp o conectar
 
 📩: Castropavezs@gmail.com.
 
-📱: +56 9 97783164.
+📱: +56 9 77265916.
 
 🔗: https://www.linkedin.com/in/sebasti%C3%A1n-castro-pavez/
 
