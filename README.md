@@ -2,7 +2,7 @@
 
 ### ¡Hola!, Soy Sebastián.
 
-Soy de Chile 🇨🇱, Desarrollador Web Full-Stack y Técnico en Enfermería, Me encanta la tecnología y eso me llevo a terminar con éxito, mi Bootcamp en Soy Henry, me considero una persona autodidacta porque me gusta el poder estar mejorando y desarrollando nuevas habilidades las cuales me permitan desenvolver mis aptitudes de mejor forma en los proyectos que tengo que desarrollar.
+Soy de Chile, Desarrollador Web Full-Stack y Técnico en Enfermería, Me encanta la tecnología y eso me llevo a terminar con éxito, mi Bootcamp en Soy Henry, me considero una persona autodidacta porque me gusta el poder estar mejorando y desarrollando nuevas habilidades las cuales me permitan desenvolver mis aptitudes de mejor forma en los proyectos que tengo que desarrollar.
 
 ### Contacto.
 
@@ -12,7 +12,7 @@ Si deseas contactarme puedes enviar un correo, escribir a mi WhatsApp o conectar
 
 📱: +56 9 76147294.
 
-🔗: https://www.linkedin.com/in/sebasti%C3%A1n-castro-pavez/
+🔗: https://www.linkedin.com/in/sebasti%C3%A1n-pavez-castro/
 
 
 <!--
